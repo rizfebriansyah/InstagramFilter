@@ -17,3 +17,5 @@ Pressing the Up arrow button will apply the invert colour filter:
 Pressing the Down arrow button will apply the grayscale colour filter:  
 
 <img width="1350" alt="igfiltergrey" src="https://user-images.githubusercontent.com/88428142/196115029-b56acda9-d49a-44c3-9ca2-f241b77e77d9.png">
+
+To run the application, please download Brackets. Download and drag all the files and peform a live preview.
